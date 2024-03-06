@@ -13,7 +13,7 @@ There are 2 classes in the script:
 2. Scheduler: Manages the lottery scheduling algorithm. It allows adding processes, allocating lottery tickets, and selecting the next process to run randomly.
 
 ## Instructions for Execution
-1. Ensure you have Python installed on your system and a comiler that can execute Python or use an Online-IDE that can compile Python.
+1. Ensure you have Python installed on your system or a compiler that can execute Python or use an Online-IDE that can compile Python.
 
 2. Download the 'cs540assignment2.py' file to your device.
 
